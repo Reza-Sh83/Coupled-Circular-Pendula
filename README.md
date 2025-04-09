@@ -43,11 +43,11 @@ pip install numpy scipy matplotlib ipython
 
 3. **View the Outputs:**
    - **Reconstructed Normal Modes**:
-     - <img src="Reconstructed Motion Using Normal Modes of Coupled Oscillators.png" width="450">
+     - <img src="Reconstructed Motion Using Normal Modes of Coupled Oscillators.png" width="900" height="450">
    - **Numerical Simulation**:
-     - <img src="Numerical Solution of Coupled Oscillators.png" width="450">
+     - <img src="Numerical Solution of Coupled Oscillators.png" width="900" height="450">
    - **Individual Mode Contributions**:
-     - <img src="Each Normal Modes.png" width="450">
+     - <img src="Each Normal Modes.png" width="900" height="1800">
 
 ## Contributing
 
